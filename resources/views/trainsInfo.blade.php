@@ -3,10 +3,10 @@
 @section('title', 'TRAINS INFO')
 
 @section('content')
-    <h1 class="display-3 fw-bold text-center text-primary">TRAINS</h1>
+    <h1 class="display-3 fw-bold text-center text-primary mb-4">TRAINS</h1>
 
     <div class="row mx-0 justify-content-center">
-        <div class="col-8 px-0 rounded">
+        <div class="col-10 px-0 rounded">
 
             <table class="table border border-5 border-black fw-bold text-uppercase">
                 <thead>
