@@ -1,5 +1,7 @@
 <?php
 
 return [
-    "home" => 42
+    "name" => "Fabio",
+    "surname" => "Marascia",
+    "location" => "Sicily",
 ];
